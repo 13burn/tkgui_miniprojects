@@ -1,5 +1,8 @@
 import tkinter as tk
-
+"""
+This pp only sums because I don't feel like aking it do anything else, maybe I'll add more stuff later 
+for now, this only sums
+"""
 root = tk.Tk()
 root.title("Calculator")
 
