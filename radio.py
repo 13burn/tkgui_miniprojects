@@ -1,8 +1,9 @@
 import tkinter as tk
-from PIL import ImageTk, Image
+#from PIL import ImageTk, Image #I dont need this
 
 root = tk.Tk()
 root.title("Something something")
+
 r=tk.IntVar()
 r.set("1")
 
